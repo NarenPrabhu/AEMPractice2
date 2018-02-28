@@ -1,0 +1,6 @@
+com\cg\AEMPractice2\core\filters\LoggingFilter.class
+com\cg\AEMPractice2\core\package-info.class
+com\cg\AEMPractice2\core\servlets\SimpleServlet.class
+com\cg\AEMPractice2\core\models\HelloWorldModel.class
+com\cg\AEMPractice2\core\listeners\SimpleResourceListener.class
+com\cg\AEMPractice2\core\schedulers\SimpleScheduledTask.class
