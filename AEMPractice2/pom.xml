@@ -19,7 +19,7 @@
     <groupId>com.cg</groupId>
     <artifactId>AEMPractice2</artifactId>
     <packaging>pom</packaging>
-    <version>LATEST</version>
+    <version>0.0.1-SNAPSHOT</version>
     <description>AEMpractice2</description>
     
     <modules>
@@ -39,7 +39,7 @@
         <vault.password>admin</vault.password>
     </properties>
     <build>
-    
+  
         <plugins>
             <!-- Maven Release Plugin -->
             <plugin>
@@ -73,7 +73,6 @@
                 <groupId>org.apache.maven.plugins</groupId>
                 <artifactId>maven-jar-plugin</artifactId>
                 <version>2.5</version>
-                <configuration><jarName>${project.name}.${project.version}_${maven.build.timestamp}</jarName></configuration>
             </plugin>
             <!-- Maven Enforcer Plugin -->
             <plugin>
