@@ -39,6 +39,7 @@
         <vault.password>admin</vault.password>
     </properties>
     <build>
+    <finalName>${maven.build.timestamp}</finalName>
         <plugins>
             <!-- Maven Release Plugin -->
             <plugin>
