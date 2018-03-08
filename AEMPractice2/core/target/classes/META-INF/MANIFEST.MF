@@ -1,5 +1,5 @@
 Manifest-Version: 1.0
-Bnd-LastModified: 1520490623888
+Bnd-LastModified: 1520491446474
 Build-Jdk: 1.8.0_121
 Built-By: narprabh
 Bundle-Description: Core bundle for AEMpractice2
@@ -16,7 +16,6 @@ Export-Package: com.cg.AEMPractice2.core.filters;uses:="javax.servlet";v
  .0",com.cg.AEMPractice2.core.schedulers;version="0.0.1",com.cg.AEMPract
  ice2.core.servlets;uses:="javax.servlet,org.apache.sling.api,org.apache
  .sling.api.servlets";version="0.0.1"
-Implementation-Version: ${build.number}
 Import-Package: javax.annotation,javax.inject;version="[0.0,1)",javax.se
  rvlet,org.apache.sling.api;version="[2.3,3)",org.apache.sling.api.reque
  st;version="[2.4,3)",org.apache.sling.api.resource;version="[2.5,3)",or
@@ -38,6 +37,4 @@ Service-Component: OSGI-INF/com.cg.AEMPractice2.core.listeners.SimpleRes
  let.xml,OSGI-INF/com.cg.AEMPractice2.core.schedulers.SimpleScheduledTas
  k.xml,OSGI-INF/com.cg.AEMPractice2.core.filters.LoggingFilter.xml
 Sling-Model-Packages: com.cg.AEMPractice2.core
-Specification-Title: AEMpractice2 - Core
-Specification-Version: 0.0.1-SNAPSHOT
 Tool: Bnd-2.3.0.201405100607

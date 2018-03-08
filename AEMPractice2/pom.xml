@@ -38,11 +38,12 @@
         <vault.user>admin</vault.user>
         <vault.password>admin</vault.password>
            <build.number></build.number>
+           <build.date.formatted></build.date.formatted>
     </properties>
    
     <build>
   
-  <finalName>${project.artifactId}-${project.version}${build.number}</finalName>
+  <finalName>${project.artifactId}${build.number}${build.date.formatted}</finalName>
 
         <plugins>
             <!-- Maven Release Plugin -->
