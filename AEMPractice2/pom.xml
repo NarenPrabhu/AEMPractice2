@@ -42,7 +42,7 @@
    
     <build>
   
-  <finalName>${artifactId}-${version}${build.number}</finalName>
+  <finalName>${project.artifactId}-${project.version}${build.number}</finalName>
 
         <plugins>
             <!-- Maven Release Plugin -->
