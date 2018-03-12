@@ -23,7 +23,7 @@
     <parent>
         <groupId>com.cg</groupId>
         <artifactId>AEMPractice2</artifactId>
-        <version>0.0.1-SNAPSHOT</version>
+        <version>${build.number}${build.date.formatted}</version>
         <relativePath>../pom.xml</relativePath>
     </parent>
 
