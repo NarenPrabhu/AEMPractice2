@@ -4,9 +4,9 @@
 <comment>AEMpractice2 - UI apps</comment>
 <entry key="createdBy">narprabh</entry>
 <entry key="name">AEMPractice2.ui.apps</entry>
-<entry key="created">2018-03-12T11:47:40.326+0530</entry>
+<entry key="created">2018-03-12T14:18:31.796+0530</entry>
 <entry key="groupId">com.cg</entry>
-<entry key="version">0.0.1-SNAPSHOT</entry>
+<entry key="version">0.0.1</entry>
 <entry key="requiresRoot">false</entry>
 <entry key="group">AEMpractice2 Content Package</entry>
 <entry key="description">UI apps package for AEMpractice2</entry>

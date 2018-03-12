@@ -1,12 +1,12 @@
 Manifest-Version: 1.0
-Bnd-LastModified: 1520835447977
+Bnd-LastModified: 1520844506734
 Build-Jdk: 1.8.0_121
 Built-By: narprabh
 Bundle-Description: Core bundle for AEMpractice2
 Bundle-ManifestVersion: 2
 Bundle-Name: AEMpractice2 - Core
 Bundle-SymbolicName: com.cg.AEMPractice2.core
-Bundle-Version: 0.0.1.SNAPSHOT
+Bundle-Version: 0.0.1
 Created-By: Apache Maven Bundle Plugin
 Export-Package: com.cg.AEMPractice2.core.filters;uses:="javax.servlet";v
  ersion="0.0.1",com.cg.AEMPractice2.core.listeners;uses:="org.osgi.servi
