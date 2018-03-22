@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!--Making change in UI apps again
+<!--Making change in UI apps
  |  Copyright 2015 Adobe Systems Incorporated
  |
  |  Licensed under the Apache License, Version 2.0 (the "License");
@@ -23,7 +23,7 @@
     <parent>
         <groupId>com.cg</groupId>
         <artifactId>AEMPractice2</artifactId>
-        <version>36</version>
+        <version>39</version>
         <relativePath>../pom.xml</relativePath>
     </parent>
 
