@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!--Changes to core shouldnt trigger deploy apps
+<!--Changes to core shouldnt trigger deploy apps!!
  |  Copyright 2015 Adobe Systems Incorporated
  |
  |  Licensed under the Apache License, Version 2.0 (the "License");
@@ -20,7 +20,7 @@
     <parent>
         <groupId>com.cg</groupId>
         <artifactId>AEMPractice2</artifactId>
-        <version>42</version>
+        <version>43</version>
         <relativePath>../pom.xml</relativePath>
     </parent>
     <artifactId>AEMPractice2.core</artifactId>
